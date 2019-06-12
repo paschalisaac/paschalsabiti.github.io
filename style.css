@@ -1,4 +1,10 @@
-body {background-color: #FFFACD;
+body {
+	background-color: #FFFACD;
+	width: 80%;
+	height: auto;
+	margin: auto;
+	font-family: arial;
+
 }
 
 #welcome-section {
