@@ -1,0 +1,107 @@
+body {background-color: #FFFACD;
+}
+
+#welcome-section {
+	background-color: #ff1493;
+	text-align: center;
+	
+
+}
+#two {
+	
+	
+}
+#profile-link {
+	text-align: center;
+	background-color: 808000;
+	float: left;
+
+}
+#four {
+	
+}
+#five {
+	
+	background-color: #008080;
+	clear: both;
+	text-align: center;
+
+
+}	
+#six {
+	text-align: center;
+	background-color: #FF00FF;
+}
+#seven {
+	text-align: center;
+	background-color: #4B0082;
+	
+
+}
+#eight {
+	text-align: center;
+	background-color: #FFFF00;
+	
+}
+#nine {
+	text-align: center;
+	
+}
+#ten {
+	background-color: #800000;
+	text-align: center;
+	
+}
+#eleven {
+	text-align: center;
+
+	
+}
+#projects {
+	text-align: center;
+	background-color: #2E8B57;
+	
+}
+.HelloGit {
+	font-weight: bold;
+	font-family: initial;
+
+}
+.My-first-repository {
+	font-weight: bold;
+	font-family: initial;
+}
+#profile-link ul {
+	list-style-type: none;
+}
+#projects ul {
+	list-style-type: none;
+}
+.slack {
+	font-weight: bold;
+	font-family: initial;
+}
+.github {
+	font-weight: bold;
+	font-family: initial;
+}
+#navbar {
+	text-align: center;
+	background-color: #A52A2A;
+}
+.welcome-section ul {
+	list-style-type: none;
+}
+#two {
+	float: right;
+}
+#list ul {
+	list-style-type: none;
+	text-align: center;
+}
+#list {
+	background-color: #FFE4C4;
+}
+table, th, td {
+  border: 1px solid black;
+}
