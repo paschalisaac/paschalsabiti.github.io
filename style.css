@@ -4,6 +4,7 @@ body {
 	height: auto;
 	margin: auto;
 	font-family: arial;
+	border: 1px solid #000000;
 
 }
 
@@ -13,19 +14,16 @@ body {
 	
 
 }
-#two {
-	
-	
-}
 #profile-link {
+
+
 	text-align: center;
 	background-color: 808000;
-	float: left;
+
+
 
 }
-#four {
-	
-}
+
 #five {
 	
 	background-color: #008080;
@@ -83,10 +81,7 @@ body {
 #projects ul {
 	list-style-type: none;
 }
-.slack {
-	font-weight: bold;
-	font-family: initial;
-}
+.slack
 .github {
 	font-weight: bold;
 	font-family: initial;
@@ -106,8 +101,15 @@ body {
 	text-align: center;
 }
 #list {
-	background-color: #f442d4;
+	background-color: #FFFF00;
 }
 table, th, td {
   border: 1px solid black;
+}
+#CCCC {
+	text-align: center;
+	background-color: #b22222;
+}
+#footer {
+	text-align: center;
 }
