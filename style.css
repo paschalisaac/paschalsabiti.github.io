@@ -1,5 +1,5 @@
 body {
-	background-color: #FFFACD;
+	background-color: #42f4f1;
 	width: 80%;
 	height: auto;
 	margin: auto;
@@ -106,7 +106,7 @@ body {
 	text-align: center;
 }
 #list {
-	background-color: #FFE4C4;
+	background-color: #f442d4;
 }
 table, th, td {
   border: 1px solid black;
